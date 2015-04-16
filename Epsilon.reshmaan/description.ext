@@ -1,0 +1,15 @@
+author="MCRU";
+OnLoadName = "Operation Epsilon";
+onLoadMission="ALiVE";
+onLoadMissionTime = 1;
+gameType = Coop;
+disabledAI = true;
+respawn = BASE;
+respawndelay = 90;
+
+class Header
+{
+  gameType = Coop ;
+  minPlayers = 1;
+  maxPlayers = 71;
+};
